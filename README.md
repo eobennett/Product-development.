@@ -21,16 +21,23 @@ The product owner shares high-level goals for the project over the coming period
 Team members each describe their core, existing capabilities followed by a list of any capabilities they would like to develop or improve during the coming project.
 
 4.	**Collaboration & Communication Plan.**
-Participants discuss responsibilities for communicating with those outside the team. Draft working agreements for how they will communicate and identify the role of any tools.
+Participants discuss responsibilities for communicating with those outside the team. Draft working agreements for how they will communicate and identify the role of any tools. Ensure all parties have access to the working board and supporting resources of information.
 
 5.	**Risks.**
 An optional activity.  Participants create a risk census, limited to a project’s top ten risks along with the impact and probability of each.
 
-6.	**Wrap Up.**
-Thank participants for their time and attention. Allow each participant to state if their expectations for the meeting were met.
+6.	**Wrap Up & Next Steps.**
+Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up. Thank participants for their time and attention. Allow each participant to state if their expectations for the meeting were met.
 
 * * *
 ### Sprint Ceremonies 
 
  ![RC](https://user-images.githubusercontent.com/75279462/100688206-cf670400-334f-11eb-9d67-ec2d3cc29ee8.jpg)
 
+
+* * *
+### Sprint Ceremonies 
+
+
+
+Determine sprint start date for the team. Schedule Sprint 0 session. Identify any items that require follow-up.
