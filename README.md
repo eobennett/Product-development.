@@ -30,3 +30,4 @@ An optional activity.  Participants create a risk census, limited to a projectâ€
 Thank participants for their time and attention. Allow each participant to state if their expectations for the meeting were met.
 
 * * *
+ 
