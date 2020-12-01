@@ -30,4 +30,7 @@ An optional activity.  Participants create a risk census, limited to a projectâ€
 Thank participants for their time and attention. Allow each participant to state if their expectations for the meeting were met.
 
 * * *
- 
+### Sprint Ceremonies 
+
+ ![RC](https://user-images.githubusercontent.com/75279462/100688206-cf670400-334f-11eb-9d67-ec2d3cc29ee8.jpg)
+
