@@ -36,7 +36,7 @@ Determine sprint start date for the team. Schedule Sprint 0 session. Identify an
 
 
 * * *
-### Sprint Ceremonies 
+### Sprint 0 
 
 
 
